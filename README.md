@@ -13,5 +13,5 @@
 ### Reach out to me on
 - ⚡ Linkedin- https://www.linkedin.com/in/adhyanmaji/
 - ⚡ Kaggle- https://www.kaggle.com/adhyanmaji31
-- ⚡ Email- (adhyan.maji@gmail.com)
+- ⚡ Email- adhyan.maji@gmail.com
 -->
