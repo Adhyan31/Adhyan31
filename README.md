@@ -1,7 +1,7 @@
 ### Hi there, I am Adhyan!👋
 
-<!--
-**Adhyan31/Adhyan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+
 
 - 🔭 I’m currently pursuing my bachelors from KIIT University in Electronics and Telecommunication Engineering
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning Technologies
