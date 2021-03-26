@@ -15,7 +15,7 @@
 ```python
 def adhyan():
   skills = ['Python', 'C++', 'DSA', 'Machine Learning', 'Data Science', 'Deep learning', 'SQL']
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'tensorflow', 'MS Excel']
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'tensorflow', 'flask', 'MS Excel']
   cloud_architecture = ['heroku']
   open_source_contributer = True
   return ∞
