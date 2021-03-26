@@ -1,6 +1,7 @@
 ### Hi there, I am Adhyan!👋
 
 ![GIFT](GIFT.png)
+[![HitCount](http://hits.dwyl.com/Adhyan31/https://githubcom/Adhyan31.svg)](http://hits.dwyl.com/Adhyan31/https://githubcom/Adhyan31)
 
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
